@@ -1,6 +1,6 @@
 # Nexum — Android APK distribution
 
-Public release channel for the [Nexum](https://nexum.app) Android app.
+Public release channel for the [Nexum](https://nexum.primigenum.com) Android app.
 APKs published here are built and signed by the same CI pipeline that
 publishes to Google Play, so installs from this repo and from Play Store
 are functionally equivalent.
@@ -31,7 +31,7 @@ sha256sum nexum-vX.Y.Z.apk
 
 ## Privacy
 
-See [nexum.app/legal/privacy-policy](https://nexum.app/legal/privacy-policy)
+See [nexum.primigenum.com/legal/privacy-policy](https://nexum.primigenum.com/legal/privacy-policy)
 for what data the app collects.
 
 ## Source code
